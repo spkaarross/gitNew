@@ -1,0 +1,2 @@
+We now have a third file.
+Add some text to the file.
